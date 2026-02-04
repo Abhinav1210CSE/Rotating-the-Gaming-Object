@@ -62,3 +62,4 @@ public class rotate : MonoBehaviour
 ![alt text](<Screenshot 2026-02-03 210529.png>)
 ## Result:
 
+Thus the unity project for Rotating the object is completed.
